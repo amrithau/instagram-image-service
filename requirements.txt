@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+boto3
+pytest
+moto
+requests
+python-multipart
+awscli
